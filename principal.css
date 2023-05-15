@@ -1,0 +1,98 @@
+body{
+     background-image: url("https://i.ibb.co/N2grP4S/bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.tav{
+    border:none;
+    background-color:white;
+    border-radius: 50px;
+    width: 38%;
+    height: 600px;
+    left: 430px;
+    right: 450px;
+    top: 130px;
+    position: relative;
+    padding-bottom: 100px;
+}
+.logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.p1{
+    font-family: sans-serif;
+    font-size: 30px;
+    text-align: center;
+
+}
+input[type=email],input[type=password]{
+    border-radius:20px;
+    width: 90%;
+    margin: 5px;
+    height: 40px;
+  }
+.center {
+    margin: 0 113px;
+}
+.l1{
+    padding-left: 3px;
+    font-size: 20px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+.l2{
+    padding-left: 5px;
+    font-size: 18px;
+    color: gray;
+}
+.a1{
+    padding-left: 115px;
+    text-decoration: none;
+    font-size: 15px;
+    color: black;
+}
+.b_1{
+    padding-left: 116px;
+    border: none;
+}
+.b1{
+    width: 65%;
+    height: 40px;
+    background-color: red;
+    color: white;
+    border-radius: 20px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+.b2{
+    width: 65%;
+    height: 40px;
+    background-color: blue;
+    color: white;
+    border-radius: 20px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+.b3{
+    width: 65%;
+    height: 40px;
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    font-size: 16px;
+    border: 1px solid gray;
+    cursor: pointer;
+}
+.p2{
+    text-align: center;
+    padding: 0 120px;
+    font-size: 13px;
+    color: gray;
+}
+.a2{
+    text-decoration: none;
+    color: black;
+}
